@@ -11,9 +11,10 @@ console.log("Save this to your .env:", myNewKey);
 
 ...
 
-// 2. Setup your app
 // 2. Instantiate the codec
 const codec = new EmojiCodec(myNewKey);
+
+...
 
 // 3. Use it
 const payload = { event: "purchase", amount: 49.99 };
