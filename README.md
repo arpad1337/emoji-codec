@@ -1,5 +1,11 @@
-# emoji-codec
+# Emoji-Codec
 Encoding and decoding JSON messages with emojis: CSRF-proof, Caesar shifting, object shuffling
+
+## Whitepaper
+
+[THE EMOJI-CODEC PROTOCOL: A COMPREHENSIVE ANALYSIS OF
+ALGORITHMIC COMPLEXITY, TELEMETRY OBFUSCATION, AND
+CRYPTOGRAPHIC VIABILITY](https://www.arpi.im/emoji-codec.pdf)
 
 ## Usage
 
