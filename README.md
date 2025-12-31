@@ -1,6 +1,8 @@
 # Emoji-Codec
 Encoding and decoding JSON messages with emojis: CSRF-proof, Caesar shifting, object shuffling
 
+![Screen shot](https://raw.githubusercontent.com/arpad1337/emoji-codec/refs/heads/main/Screenshot%202025-12-31%20at%2007.26.06.png)
+
 ## Whitepaper
 
 [THE EMOJI-CODEC PROTOCOL: A COMPREHENSIVE ANALYSIS OF
